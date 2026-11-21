@@ -1,4 +1,4 @@
-/*  https://github.com/barionleg/emscripten/blob/main/system/include/emscripten/emscripten.h
+/*  https://github.com/barionleg/emscripten/blob/main/system/include/emscripten/emscripten.h   https://emscripten.org/docs/api_reference/emscripten.h.html
  * Copyright 2012 The Emscripten Authors.  All rights reserved.
  * Emscripten is available under two separate licenses, the MIT license and the
  * University of Illinois/NCSA Open Source License.  Both these licenses can be
