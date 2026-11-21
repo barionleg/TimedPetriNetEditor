@@ -1,0 +1,29 @@
+{
+  "revision": 2,
+  "type": "Petri net",
+  "nets": [
+    {
+       "name": "Net",
+       "places": [
+            { "id": 0, "caption": "P0", "tokens": 0 }
+       ],
+       "transitions": [
+            { "id": 0, "caption": "T0" }
+       ],
+       "arcs": [
+       ],
+       "actions": [
+       ],
+       "layout": {
+          "places": [
+             [-300, -50]
+          ],
+          "transitions": [
+             [0, 0]
+          ]
+       }
+    }
+  ],
+  "inputs": [
+  ]
+}
